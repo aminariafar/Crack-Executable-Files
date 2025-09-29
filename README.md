@@ -35,12 +35,3 @@ Crack-Executable-Files-main/
 
 ### What this is *not*
 - This repository is **not** intended to provide tools or instructions for cracking software protections or bypassing licensing. It intentionally focuses on analysis, explanation, and defensive understanding.
-
----
-
-If you'd like, I can:
-- Expand each `part*.txt` into a clearer annotated walkthrough inside the README.  
-- Convert the assembly examples into step-by-step visual explanations (control-flow diagrams).  
-- Extract and present key assembly snippets with inline comments for a quick study guide.
-
-Tell me which enhancement you want and I will add it to the README (saved as `/mnt/data/README.md`).
